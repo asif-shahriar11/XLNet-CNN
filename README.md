@@ -1,3 +1,9 @@
+## Introduction
+
+This repository contains the code and data of the paper titled **"XLNet-CNN: Combining Global Context Understanding of XLNet with Local Context Capture through Convolution for Improved Multi-Label Text Classification"**, which has been accepted at **NSysS 2024**.
+
+Our proposed model, **XLNet-CNN**, builds upon XLNet's strength in global context understanding by incorporating a 1D CNN layer to capture local dependencies and patterns within the text. This combination allows the model to recognize important phrases and word combinations, which are crucial for multi-label text classification. Our experiments on three distinct datasets — Ohsumed (medical abstracts), CAVES (anti-COVID vaccine tweets), and HateXplain (cyberbullying detection)—demonstrate that XLNet-CNN consistently outperforms XLNet and domain-specific BERT models in terms of F1-score.
+
 ## Datasets
 
 The datasets used in this study—**OHSUMED**, **CAVES**, and **HateXplain**—are available in the `data` directory.  These datasets have been carefully preprocessed to adapt them for use in a **multi-label classification** setting. 
