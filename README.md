@@ -13,9 +13,21 @@ The model codes for each dataset are organized into separate directories:
 Each directory contains four Jupyter Notebook (`.ipynb`) files, one for each model used in the study. Below is the directory structure for clarity:
 
 ```
-├── caves-models │ ├── caves-BERT.ipynb │ ├── caves-CTBERT.ipynb │ ├── caves-XLNet.ipynb │ ├── caves-XLNet-CNN.ipynb │ 
-├── ohsumed-models │ ├── ohsumed-BERT.ipynb │ ├── ohsumed-CTBERT.ipynb │ ├── ohsumed-XLNet.ipynb │ ├── ohsumed-XLNet-CNN.ipynb │ 
-├── hatespeech-models │ ├── hatespeech-BERT.ipynb │ ├── hatespeech-CTBERT.ipynb │ ├── hatespeech-XLNet.ipynb │ ├── hatespeech-XLNet-CNN.ipynb
+├── caves-models │
+  ├── caves-BERT.ipynb │
+  ├── caves-CTBERT.ipynb │
+  ├── caves-XLNet.ipynb │
+  ├── caves-XLNet-CNN.ipynb │ 
+├── ohsumed-models │
+  ├── ohsumed-BERT.ipynb │
+  ├── ohsumed-CTBERT.ipynb │
+  ├── ohsumed-XLNet.ipynb │
+  ├── ohsumed-XLNet-CNN.ipynb │ 
+├── hatespeech-models │
+  ├── hatespeech-BERT.ipynb │
+  ├── hatespeech-CTBERT.ipynb │
+  ├── hatespeech-XLNet.ipynb │
+  ├── hatespeech-XLNet-CNN.ipynb
 ```
 
 
