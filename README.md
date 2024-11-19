@@ -42,8 +42,8 @@ Each directory contains four Jupyter Notebook (`.ipynb`) files, one for each mod
 ### Description
 
 - Each notebook in the corresponding directory is dedicated to a specific model. For example:
-  - `caves-BERT.ipynb` contains the implementation of the BERT model for the **CAVES** dataset.
-  - `ohsumed-CTBERT.ipynb` implements the CT-BERT model for the **OHSUMED** dataset.
+  - `caves-ctbert.ipynb` contains the implementation of the CT-BERT model for the **CAVES** dataset.
+  - `ohsumed-xlnet.ipynb` implements the XLNet model for the **OHSUMED** dataset.
   - `hatespeech-XLNet-CNN.ipynb` contains the XLNet-CNN model for the **HateXplain** dataset.
 
 - These notebooks include the preprocessing, training, evaluation, and performance analysis of each model.
