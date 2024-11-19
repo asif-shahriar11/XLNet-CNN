@@ -20,20 +20,20 @@ Each directory contains four Jupyter Notebook (`.ipynb`) files, one for each mod
 
 ```
 ├── caves-models │
-  ├── caves-BERT.ipynb │
-  ├── caves-CTBERT.ipynb │
-  ├── caves-XLNet.ipynb │
-  ├── caves-XLNet-CNN.ipynb │ 
+  ├── caves-bert.ipynb │
+  ├── caves-ctbert.ipynb │
+  ├── caves-xlnet.ipynb │
+  ├── caves-xlnet-cnn.ipynb │ 
 ├── ohsumed-models │
-  ├── ohsumed-BERT.ipynb │
-  ├── ohsumed-CTBERT.ipynb │
-  ├── ohsumed-XLNet.ipynb │
-  ├── ohsumed-XLNet-CNN.ipynb │ 
+  ├── ohsumed-bert.ipynb │
+  ├── ohsumed-biobert.ipynb │
+  ├── ohsumed-xlnet.ipynb │
+  ├── ohsumed-xlnet-cnn.ipynb │ 
 ├── hatespeech-models │
-  ├── hatespeech-BERT.ipynb │
-  ├── hatespeech-CTBERT.ipynb │
-  ├── hatespeech-XLNet.ipynb │
-  ├── hatespeech-XLNet-CNN.ipynb
+  ├── hatespeech-bert.ipynb │
+  ├── hatespeech-hatebert.ipynb │
+  ├── hatespeech-xlnet.ipynb │
+  ├── hatespeech-xlnet-cnn.ipynb
 ```
 
 
